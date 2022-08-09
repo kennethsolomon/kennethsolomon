@@ -6,7 +6,7 @@ Hi 👋, I'm Kenneth Solomon
 
 <h3 align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=790&lines=A+passionate+full+stack+developer+from+Sorsogon+City%2C+Philippines.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=790&lines=A+passionate+full+stack+developer+from+Sorsogon+City%2C+Philippines.;There+is+no+place+like+127.0.0.1;Real+Programmers+always+count+from+0.)](https://git.io/typing-svg)
 
 </h3>
 
