@@ -1,11 +1,20 @@
 [![MasterHead](https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif)](https://github.com/kennethsolomon)
-<h1 align="center">Hi 👋, I'm Kenneth Solomon</h1>
-<h3 align="center">A passionate full stack developer from Sorsogon City, Philippines.</h3>
+
+<h1 align="center">
+Hi 👋, I'm Kenneth Solomon
+</h1>
+
+<h3 align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=790&lines=A+passionate+full+stack+developer+from+Sorsogon+City%2C+Philippines.)](https://git.io/typing-svg)
+
+</h3>
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kennethsolomon&label=Profile%20views&color=0e75b6&style=flat" alt="kennethsolomon" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kennethsolomon&label=Profile%20views&color=0e75b6&style=flat" alt="kennethsolomon" /></p>
 
-<p align="left"> <a href="https://twitter.com/mr_kensolomon" target="blank"><img src="https://img.shields.io/twitter/follow/mr_kensolomon?logo=twitter&style=for-the-badge" alt="mr_kensolomon" /></a> </p>
+<p align="left"> <a href="https://twitter.com/mr_kensolomon" target="blank"><img src="https://img.shields.io/twitter/follow/mr_kensolomon?logo=twitter&style=for-the-badge" alt="mr_kensolomon" /></a></p>
 
 
 - 🔭 I’m currently working on **Water Refilling Station System**
