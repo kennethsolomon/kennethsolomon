@@ -50,8 +50,8 @@ Hi 👋, I'm Kenneth Solomon
 <details>
     <summary>&#9889 <b>GitHub Stats</b></summary><br/>
 
-[![Kenneth Solomon Github Stats](https://github-readme-stats.vercel.app/api?username=kennethsolomon&show_icons=true&locale=en&count_private=true)](https://github.com/kennethsolomon) 
 [![Top Language](https://github-readme-stats.vercel.app/api/top-langs?username=kennethsolomon&show_icons=true&locale=en&layout=compact)](https://github.com/kennethsolomon)
+[![Kenneth Solomon Github Stats](https://github-readme-stats.vercel.app/api?username=kennethsolomon&show_icons=true&locale=en&count_private=true)](https://github.com/kennethsolomon) 
 [![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=kennethsolomon&)](https://github.com/kennethsolomon)
 
 </details>
