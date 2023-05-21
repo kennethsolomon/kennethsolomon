@@ -23,7 +23,7 @@ Hi 👋, I'm Kenneth Solomon
 
 - 💬 Ask me about **Laravel, Vue.js, Nuxt and Girls**
 
-- 📫 How to reach me **kennethsolomon@pm.me**
+- 📫 How to reach me **contact@kennethsolomon.com**
 
 - ⚡ Fun fact **I love Hot Moms**
 
