@@ -17,7 +17,7 @@ Hi 👋, I'm Kenneth Solomon
 <p align="left"> <a href="https://twitter.com/mr_kensolomon" target="blank"><img src="https://img.shields.io/twitter/follow/mr_kensolomon?logo=twitter&style=for-the-badge" alt="mr_kensolomon" /></a></p>
 
 
-- 🔭 I’m currently working on **Water Refilling Station System**
+- 🔭 I’m currently working on **MediTrack System**
 
 - 🌱 I’m currently learning **Laravel, Vue.js, Nuxt**
 
