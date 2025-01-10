@@ -17,15 +17,15 @@ Hi 👋, I'm Kenneth Solomon
 <p align="left"> <a href="https://twitter.com/mr_kensolomon" target="blank"><img src="https://img.shields.io/twitter/follow/mr_kensolomon?logo=twitter&style=for-the-badge" alt="mr_kensolomon" /></a></p>
 
 
-- 🔭 I’m currently working on **MediTrack System**
+- 🔭 I’m currently working on **OnlyFund - Loan System**
 
-- 🌱 I’m currently learning **Laravel, Vue.js, Nuxt**
+- 🌱 I’m currently learning **MERN Stack - Mongo DB, Express, React, Node.js** together with [TanStack](https://tanstack.com/), [Tailwind CSS](https://tailwindcss.com/) and [daisyUI](https://daisyui.com/) 
 
-- 💬 Ask me about **Laravel, Vue.js, Nuxt and Girls**
+- 💬 Ask me about **Laravel, Vue.js, Nuxtjs**
 
 - 📫 How to reach me **contact@kennethsolomon.com**
 
-- ⚡ Fun fact **I love Hot Moms**
+- ⚡ Fun fact **I love doing Podcasts**
 
 ## 🤝 Connect with me:
 <p align="left">
