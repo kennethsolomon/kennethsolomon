@@ -23,7 +23,7 @@ Hi 👋, I'm Kenneth Solomon
 
 - 💬 Ask me about **Laravel, Vue.js, Nuxtjs**
 
-- 📫 How to reach me **contact@kennethsolomon.com**
+- 📫 How to reach me **hello@kennethsolomon.com**
 
 - ⚡ Fun fact **I love doing Podcasts**
 
